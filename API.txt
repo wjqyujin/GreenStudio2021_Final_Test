@@ -1,0 +1,157 @@
+https://c.y.qq.com/soso/fcgi-bin/client_search_cp?p=1&n=2&w=泡沫&format=json
+
+{"code":0,"data":{"keyword":"泡沫","priority":0,"qc":[],"semantic":{"curnum":0,"curpage":1,"list":[],"totalnum":0},"song":{"curnum":2,"curpage":1,"list":[{"albumid":123298,"albummid":"002YFufr4bXZyI","albumname":"Xposed","albumname_hilight":"Xposed","alertid":2,"belongCD":0,"cdIdx":4,"chinesesinger":0,"docid":"15989832620412542665","grp":[],"interval":258,"isonly":0,"lyric":"","lyric_hilight":"","media_mid":"000HjG8v1DTWRO","msgid":16,"newStatus":2,"nt":2779002879,"pay":{"payalbum":0,"payalbumprice":0,"paydownload":1,"payinfo":1,"payplay":0,"paytrackmouth":1,"paytrackprice":200},"preview":{"trybegin":0,"tryend":0,"trysize":0},"pubtime":1341417600,"pure":0,"singer":[{"id":13948,"mid":"001fNHEf1SFEFN","name":"G.E.M. 邓紫棋","name_hilight":"G.E.M. 邓紫棋"}],"size128":4143023,"size320":10357240,"sizeape":0,"sizeflac":26269879,"sizeogg":5321629,"songid":1530858,"songmid":"001X0PDf0W4lBq","songname":"泡沫","songname_hilight":"<em>泡沫</em>","strMediaMid":"000HjG8v1DTWRO","stream":1,"switch":16889603,"t":1,"tag":11,"type":0,"ver":0,"vid":"b0011lorm6w"},{"albumid":5816546,"albummid":"004MRTSx2EEWBl","albumname":"泡沫 (Swang Remix)","albumname_hilight":"<em>泡沫</em> (Swang Remix)","alertid":23,"belongCD":0,"cdIdx":1,"chinesesinger":0,"docid":"9732485433986621090","grp":[],"interval":203,"isonly":1,"lyric":"","lyric_hilight":"","media_mid":"003nCc9R1jvJb9","msgid":16,"newStatus":2,"nt":2583736704,"pay":{"payalbum":0,"payalbumprice":0,"paydownload":1,"payinfo":1,"payplay":0,"paytrackmouth":1,"paytrackprice":200},"preview":{"trybegin":0,"tryend":0,"trysize":0},"pubtime":1510502400,"pure":0,"singer":[{"id":2151052,"mid":"003FUB1e3ZTxk9","name":"多雷","name_hilight":"多雷"},{"id":164928,"mid":"0044PJWT4HEjDN","name":"颜丙沂","name_hilight":"颜丙沂"}],"size128":3254446,"size320":8135791,"sizeape":0,"sizeflac":25066812,"sizeogg":4750490,"songid":227314129,"songmid":"003K7Eff1Dcd0t","songname":"泡沫 (Swang Remix)","songname_hilight":"<em>泡沫</em> (Swang Remix)","strMediaMid":"003nCc9R1jvJb9","stream":1,"switch":16889603,"t":1,"tag":12,"type":0,"ver":0,"vid":"t0040i8a7ab"}],"totalnum":600},"tab":0,"taglist":[],"totaltime":0,"zhida":{"chinesesinger":0,"type":0}},"message":"","notice":"","subcode":0,"time":1636191521,"tips":""}
+
+{
+	"code": 0,
+	"data": {
+		"keyword": "泡沫",
+		"priority": 0,
+		"qc": [],
+		"semantic": {
+			"curnum": 0,
+			"curpage": 1,
+			"list": [],
+			"totalnum": 0
+		},
+		"song": {
+			"curnum": 2,
+			"curpage": 1,
+			"list": [{
+				"albumid": 123298,
+				"albummid": "002YFufr4bXZyI",
+				"albumname": "Xposed",
+				"albumname_hilight": "Xposed",
+				"alertid": 2,
+				"belongCD": 0,
+				"cdIdx": 4,
+				"chinesesinger": 0,
+				"docid": "15989832620412542665",
+				"grp": [],
+				"interval": 258,
+				"isonly": 0,
+				"lyric": "",
+				"lyric_hilight": "",
+				"media_mid": "000HjG8v1DTWRO",
+				"msgid": 16,
+				"newStatus": 2,
+				"nt": 2779002879,
+				"pay": {
+					"payalbum": 0,
+					"payalbumprice": 0,
+					"paydownload": 1,
+					"payinfo": 1,
+					"payplay": 0,
+					"paytrackmouth": 1,
+					"paytrackprice": 200
+				},
+				"preview": {
+					"trybegin": 0,
+					"tryend": 0,
+					"trysize": 0
+				},
+				"pubtime": 1341417600,
+				"pure": 0,
+				"singer": [{
+					"id": 13948,
+					"mid": "001fNHEf1SFEFN",
+					"name": "G.E.M. 邓紫棋",
+					"name_hilight": "G.E.M. 邓紫棋"
+				}],
+				"size128": 4143023,
+				"size320": 10357240,
+				"sizeape": 0,
+				"sizeflac": 26269879,
+				"sizeogg": 5321629,
+				"songid": 1530858,
+				"songmid": "001X0PDf0W4lBq",
+				"songname": "泡沫",
+				"songname_hilight": "<em>泡沫</em>",
+				"strMediaMid": "000HjG8v1DTWRO",
+				"stream": 1,
+				"switch": 16889603,
+				"t": 1,
+				"tag": 11,
+				"type": 0,
+				"ver": 0,
+				"vid": "b0011lorm6w"
+			}, {
+				"albumid": 5816546,
+				"albummid": "004MRTSx2EEWBl",
+				"albumname": "泡沫 (Swang Remix)",
+				"albumname_hilight": "<em>泡沫</em> (Swang Remix)",
+				"alertid": 23,
+				"belongCD": 0,
+				"cdIdx": 1,
+				"chinesesinger": 0,
+				"docid": "9732485433986621090",
+				"grp": [],
+				"interval": 203,
+				"isonly": 1,
+				"lyric": "",
+				"lyric_hilight": "",
+				"media_mid": "003nCc9R1jvJb9",
+				"msgid": 16,
+				"newStatus": 2,
+				"nt": 2583736704,
+				"pay": {
+					"payalbum": 0,
+					"payalbumprice": 0,
+					"paydownload": 1,
+					"payinfo": 1,
+					"payplay": 0,
+					"paytrackmouth": 1,
+					"paytrackprice": 200
+				},
+				"preview": {
+					"trybegin": 0,
+					"tryend": 0,
+					"trysize": 0
+				},
+				"pubtime": 1510502400,
+				"pure": 0,
+				"singer": [{
+					"id": 2151052,
+					"mid": "003FUB1e3ZTxk9",
+					"name": "多雷",
+					"name_hilight": "多雷"
+				}, {
+					"id": 164928,
+					"mid": "0044PJWT4HEjDN",
+					"name": "颜丙沂",
+					"name_hilight": "颜丙沂"
+				}],
+				"size128": 3254446,
+				"size320": 8135791,
+				"sizeape": 0,
+				"sizeflac": 25066812,
+				"sizeogg": 4750490,
+				"songid": 227314129,
+				"songmid": "003K7Eff1Dcd0t",
+				"songname": "泡沫 (Swang Remix)",
+				"songname_hilight": "<em>泡沫</em> (Swang Remix)",
+				"strMediaMid": "003nCc9R1jvJb9",
+				"stream": 1,
+				"switch": 16889603,
+				"t": 1,
+				"tag": 12,
+				"type": 0,
+				"ver": 0,
+				"vid": "t0040i8a7ab"
+			}],
+			"totalnum": 600
+		},
+		"tab": 0,
+		"taglist": [],
+		"totaltime": 0,
+		"zhida": {
+			"chinesesinger": 0,
+			"type": 0
+		}
+	},
+	"message": "",
+	"notice": "",
+	"subcode": 0,
+	"time": 1636191521,
+	"tips": ""
+}
